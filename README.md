@@ -1,1 +1,3 @@
 # nodemailer
+
+# Setup check
